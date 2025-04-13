@@ -7,6 +7,8 @@ dowload zip
 
 и что бы без палева чушпаны)
 
+и перед тем как выгружать создайте отдельную папку
+
 git clone https://github.com/Goldraven1/ekz.git 
 
 
